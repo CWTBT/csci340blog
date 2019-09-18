@@ -17,9 +17,9 @@ I probably spent about an hour doing that and then cleaning my repository
 list before trying it again with a version of RVM that worked.
 
 ### What parts are you looking forward to?
-* Making the blog not look like unformatted garbage
+* Customizing the look of the blog
 * Finding out what we're going to be using this for
-* Making consistently disappointing posts
+* Making unbelievably average posts
 
 Here's some links to my favorite websites to round it out:
 
