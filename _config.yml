@@ -18,10 +18,10 @@ email: westlp@hendrix.edu
 description: >- # this means to ignore newlines until "baseurl:"
   And the Professor said, Let there be a description:
   and there was a description.
-baseurl: baseurl "/csci340blog" # the subpath of your site, e.g. /blog
+baseurl: "/csci340blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: lw03232
+github_username:  cwtbt
 
 # Build settings
 markdown: kramdown
