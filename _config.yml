@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Terrible, Horrible, No Good, Very Bad Blog
+description: It's never been worse than this
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://cwtbt.github.io/csci340blog
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,8 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  github: CWTBT
+  twitter: lw03232
+  email: lw03232@gmail.com
 
 google_analytics: "UA-58263416-1"
