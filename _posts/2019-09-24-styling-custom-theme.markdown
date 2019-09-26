@@ -18,3 +18,6 @@ copy/paste one over the other (see: [Long Haul](https://github.com/brianmaierjr/
 ### What parts are you looking forward to?
 If I find some free time, it might be fun to come back and try switching
 to one of the other themes and further customizing it.
+
+![cool landscape picture](/assets/img/pic1.jpg)
+![sad spongebob picture](/assets/img/pic2.jpg)
