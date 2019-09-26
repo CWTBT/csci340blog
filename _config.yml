@@ -2,7 +2,7 @@ title: Terrible, Horrible, No Good, Very Bad Blog
 description: It's never been worse than this
 
 url: http://cwtbt.github.io/csci340blog
-baseurl: "/csci340blog"
+baseurl: "/csci340blog/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
