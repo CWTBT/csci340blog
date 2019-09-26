@@ -18,6 +18,8 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  - title: Reading List
+    url: /reading_list
 
 social:
   github: CWTBT
