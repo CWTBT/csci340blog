@@ -20,8 +20,6 @@ navigation:
     url: /contact
   - title: Reading List
     url: /reading_list
-  - title: Course Page
-    url: http://mark.goadrich.com/courses/csci340f19/
 
 social:
   github: CWTBT
