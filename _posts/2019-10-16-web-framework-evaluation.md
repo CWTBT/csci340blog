@@ -3,6 +3,7 @@ layout: default
 title: Web Frameworks
 author: Levi West
 ---
+# Web Frameworks
 
 ## Django
 I have some passing familiarity with Django already, so this was one of the frameworks I was most excited to learn about. It seems very Pythonic in spirit, in that it looks easy to use and seems like speed of development is prioritized over other areas. The templating system is something I'm familiar with from other frameworks, so that's a big upside for me.
