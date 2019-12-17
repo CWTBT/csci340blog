@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab 7 Reflection
+title: SW Reflection
 author: Levi West
 ---
 # SW Reflection
